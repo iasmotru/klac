@@ -1045,10 +1045,3 @@ url("/Moloko.woff2") format("woff2"),
     font-style: normal;
     font-display: swap;
 }
-
-.layout-blockcontainer {
-    max-width: 940px;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-  }
